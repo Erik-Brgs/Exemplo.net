@@ -6,7 +6,7 @@ namespace Exemplo.net
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+          //Teste de merge
         }
     }
 }
