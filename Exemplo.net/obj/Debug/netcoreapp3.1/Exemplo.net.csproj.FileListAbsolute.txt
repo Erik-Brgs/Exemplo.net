@@ -1,0 +1,13 @@
+C:\workspace\Exemplo.net\Exemplo.net\bin\Debug\netcoreapp3.1\Exemplo.net.exe
+C:\workspace\Exemplo.net\Exemplo.net\bin\Debug\netcoreapp3.1\Exemplo.net.deps.json
+C:\workspace\Exemplo.net\Exemplo.net\bin\Debug\netcoreapp3.1\Exemplo.net.runtimeconfig.json
+C:\workspace\Exemplo.net\Exemplo.net\bin\Debug\netcoreapp3.1\Exemplo.net.runtimeconfig.dev.json
+C:\workspace\Exemplo.net\Exemplo.net\bin\Debug\netcoreapp3.1\Exemplo.net.dll
+C:\workspace\Exemplo.net\Exemplo.net\bin\Debug\netcoreapp3.1\Exemplo.net.pdb
+C:\workspace\Exemplo.net\Exemplo.net\obj\Debug\netcoreapp3.1\Exemplo.net.csprojAssemblyReference.cache
+C:\workspace\Exemplo.net\Exemplo.net\obj\Debug\netcoreapp3.1\Exemplo.net.AssemblyInfoInputs.cache
+C:\workspace\Exemplo.net\Exemplo.net\obj\Debug\netcoreapp3.1\Exemplo.net.AssemblyInfo.cs
+C:\workspace\Exemplo.net\Exemplo.net\obj\Debug\netcoreapp3.1\Exemplo.net.csproj.CoreCompileInputs.cache
+C:\workspace\Exemplo.net\Exemplo.net\obj\Debug\netcoreapp3.1\Exemplo.net.dll
+C:\workspace\Exemplo.net\Exemplo.net\obj\Debug\netcoreapp3.1\Exemplo.net.pdb
+C:\workspace\Exemplo.net\Exemplo.net\obj\Debug\netcoreapp3.1\Exemplo.net.genruntimeconfig.cache
